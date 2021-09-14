@@ -1,4 +1,4 @@
-# Amay's example blog
+# Sign Up / Log In for Showcase SaaS App
 
 Example site for DO.
 
